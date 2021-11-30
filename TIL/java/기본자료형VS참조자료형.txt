@@ -1,0 +1,28 @@
+2. [Java] 기본 자료형과 참조 자료형
+- 기본 자료형 :
+    - byte
+    - short
+    - int 
+    - long
+    - float
+    - double
+    - char
+    - boolean
+
+- 참조 자료형 : 참조형은 기본자료형을 기초로 만들어진 자료형이다. 대표적으로 자바에서 제공하는 String, Array, Map, Set 등과 같은 Class, Interface, Enum이 있다. 추가적으로 필요에 따라 사용자가 참조형 타입을 정의할 수도 있다.
+
+    - Object
+    - String
+    - Array
+    - Wrapper Class
+        - Byte
+        - Short
+        - Integer
+        - Long
+        - Float
+        - Double
+        - Character
+        - Boolean
+
+Wrapper Class는 기본형을 감싼 클래스이다. 기본 자료형을 클래스로 래핑하면 얻을수 있는 이점은 유용한 메소드를 제공할 수 있다는 점이다. 
+- 참조 : https://jeonghun-ban.github.io/posts/java/primitive-type-and-reference-type/
