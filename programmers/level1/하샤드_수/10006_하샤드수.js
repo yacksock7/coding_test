@@ -1,8 +1,8 @@
 function solution(x) {    
     let h = 0;
     x.toString().split("").forEach(e => h+= parseInt(e) );
-    
-    // let h = x.toString().split("").reduce((a,b) => +a + +b);
+    // let h = x.toString().split("").reduce((a,b) => +a + +b0);
+
     return x%h === 0;
 }
 
