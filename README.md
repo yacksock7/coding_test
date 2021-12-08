@@ -1,2 +1,2 @@
 # coding_test
-1day 1commit
+1day 1commit!
